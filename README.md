@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on machine learning and iOS Development.
+- 🔭 I’m currently working on Machine Learning and iOS Development.
 - 🤓 I’m currently learning about Self-Driving Cars, Data Structures, and Algorithms.
 - 🧠 I’m looking to collaborate on building intelligent systems.
 - 🤔 I’m looking for help with Data Structures, and Algorithms.
