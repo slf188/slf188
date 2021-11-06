@@ -6,5 +6,5 @@
 - 💬 Ask me about cryptos, software, and startups.
 - 📫 Reach me at: stephanovallejom@gmail.com.
 - 🤖 Pronouns: He/Him.
-- 👨🏻‍💻 Programming Languages: Swift, Python, and C++.
+- 👨🏻‍💻 Programming Languages: Swift, Python, C++ and JavaScript.
 - 🗺 Languages: Spanish, Mandarin and English.
