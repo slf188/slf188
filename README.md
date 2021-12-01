@@ -9,4 +9,4 @@
 - 👨🏻‍💻 Programming Languages: Swift, Python, C++ and JavaScript.
 - 🗺 Languages: Spanish, Mandarin and English.
 - 🎸 Hobbies: Playing the guitar, exercising and reading.
--
+![sh](sh.jpeg)
