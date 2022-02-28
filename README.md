@@ -11,4 +11,4 @@
 - 🎸 Hobbies: Playing the guitar, exercising and reading.
 
 
-![sh](sh.jpeg)
+![zoro](zoro.gif)
