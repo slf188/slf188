@@ -1,6 +1,6 @@
 ### Hey 👋
 
-- 🤓 My name is Felipe Vallejo, my Chinese name is 巴菲利; pinyin: bā fēi lì.
+- 🤓 My name is Felipe Vallejo I'm a self-taught software developer , my Chinese name is 巴菲利; pinyin: bā fēi lì.
 - 🔭 I’m currently working on Machine Learning, CP and iOS Development.
 - 🧠 I’m looking to collaborate on: open-source projects and building software.
 - 💬 Ask me about: One Piece, software, Asia, Silicon Valley and startups.
