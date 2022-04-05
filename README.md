@@ -6,7 +6,7 @@
 - 💬 Ask me about: One Piece, software, Asia, Silicon Valley and startups.
 - 📫 Reach me at: stephanovallejom@gmail.com.
 - 🤖 Pronouns: He/Him.
-- 👨🏻‍💻 Programming Languages: Swift, Python, C++.
+- 👨🏻‍💻 Programming Languages: Swift, Python, Rust, and C++.
 - 🗺 Languages: Spanish, Mandarin and English.
 - 🎸 Hobbies: Playing the guitar, exercising and reading.
 
