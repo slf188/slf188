@@ -5,7 +5,7 @@
 - 🧠 I’m looking to collaborate on: open-source projects and building software.
 - 💬 Ask me about: One Piece, software, Asia, Silicon Valley and startups.
 - 🤖 Pronouns: He/Him.
-- 👨🏻‍💻 Programming Languages: Swift, C++ and Python.
+- 👨🏻‍💻 Programming Languages: Swift, C++ and Python, Rust and Go.
 - 🗺 Languages: Spanish, Mandarin and English.
 - 🎸 Hobbies: Playing the guitar, exercising and reading.
 
