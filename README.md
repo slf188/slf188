@@ -9,6 +9,15 @@
 - 🗺 Languages: Spanish, Mandarin and English.
 - 🎸 Hobbies: Playing the guitar, exercising and reading.
 
+### 🗺️ Location
+Previously, I've lived in:
+- [Silicon Valley](https://goo.gl/maps/GWLDRnNwQCtEMJnW9)
+- [Guangzhou, China](https://goo.gl/maps/rXy8eGTeiu6FmaWt5)
+- [Shanghai, China](https://goo.gl/maps/UUdk3EqW9w1e4EYf8)
+- [Taipei, Taiwan](https://goo.gl/maps/e87N3rC1XVraWza9A)
+
+And I'm always down to traveling and exploring new places! 
+
 <p align="center">
   <img src="zoro.gif"/>
 </p>
