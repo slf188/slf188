@@ -10,7 +10,7 @@
 - 🎸 Hobbies: Playing the guitar, exercising and reading.
 
 ### 🗺️ Location
-Previously, I've lived in:
+Previously, I lived in:
 - 🏞️ [Silicon Valley](https://goo.gl/maps/GWLDRnNwQCtEMJnW9)
 - 🏙️ [Guangzhou, China](https://goo.gl/maps/rXy8eGTeiu6FmaWt5)
 - 🌇 [Shanghai, China](https://goo.gl/maps/UUdk3EqW9w1e4EYf8)
