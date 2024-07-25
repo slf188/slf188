@@ -1,6 +1,6 @@
 ### 你好，世界！👋
 
-- 🤓 My name is Felipe Vallejo, my Chinese name is 巴菲利; pinyin: bā fēi lì and I'm a software developer!!!
+- 🤓 My name is Felipe Vallejo, my Chinese name is 巴菲利 and I'm a software developer!!!
 - 🔭 I’m currently working on Deep Learning.
 - 👨🏻‍💻 Programming Languages Swift, C++ and Python.
 - 🗺 Languages Spanish, Mandarin, Portuguese, and English.
